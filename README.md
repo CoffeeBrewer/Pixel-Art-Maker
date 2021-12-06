@@ -3,14 +3,12 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, open `index.html` and start with choosing the grid size.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Next, choose the color you want and click the desired cells. You can choose different colors for different cells. Have fun!
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
