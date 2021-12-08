@@ -38,7 +38,6 @@ submitButton.addEventListener('click', function(e) {
     makeGrid(itemHeight, itemWidth);
 })
 
-// Your code goes here!
 colorPickerElem.addEventListener('change', function() {
     colorValue = colorPickerElem.value;
 })
